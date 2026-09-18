@@ -1,0 +1,32 @@
+# TeX/LaTeX auxiliary files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.dvi
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.log
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*~
