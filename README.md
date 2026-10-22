@@ -2,10 +2,6 @@
 
 Laboratory assignments, firmware, hardware documentation, and reports for **MN 207: Mobile Robots** at the **Indian Institute of Science (IISc), Bengaluru**.
 
-**Author:** Abha Singh Sardar  
-**SR Number:** 27086  
-**Course:** MN 207 — Mobile Robots  
-
 ---
 
 ## Overview
